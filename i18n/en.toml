@@ -10,14 +10,14 @@ other = "Education"
 [references]
 other = "References"
 
-[skills]
-other = "Skills"
+[technologies]
+other = "Technologies"
 
 [languages]
 other = "Languages"
 
-[diplomas]
-other = "Diplomas"
+[certifications]
+other = "Certifications"
 
 [interests]
 other = "Interests"

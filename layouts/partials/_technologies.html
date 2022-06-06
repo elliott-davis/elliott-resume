@@ -1,0 +1,11 @@
+{{ if .Technologies }}
+<div id="technologies" class="section">
+    <div class="section__heading">
+        <h2 class="section__title">Technologies</h2>
+    </div>
+    <div class="section__content">
+        <p>{{ .Technologies | safeHTML | emojify }}</p>
+    </div>
+</div>
+{{ end }}
+

@@ -1,4 +1,4 @@
-# Almeida CV Theme
+# Fork of Almeida CV Theme
 Theme to build a customizeable printable HTML/CSS CV.
 
 ![Screenshot](images/screenshot-full.png)
